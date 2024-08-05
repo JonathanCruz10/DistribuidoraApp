@@ -1,0 +1,30 @@
+﻿@model IEnumerable<DistribuidoraApp.Models.TipoProducto>
+
+@{
+    ViewData["Title"] = "Tipos de Producto";
+}
+
+<h1>Tipos de Producto</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tipo in Model)
+        {
+            <tr>
+                <td>@tipo.Id</td>
+                <td>@tipo.Nombre</td>
+                <td>
+                    <!-- Agregar botones para editar o eliminar según sea necesario -->
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

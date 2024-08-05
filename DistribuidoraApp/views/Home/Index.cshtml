@@ -1,0 +1,178 @@
+﻿@model IEnumerable<DistribuidoraApp.Models.Producto>
+@{
+    ViewData["Title"] = "Gestión de Productos";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
+<link href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.all.min.js"></script>
+<link href="~/css/site.css" rel="stylesheet" />
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+
+
+
+<h2>Gestión de Productos</h2>
+
+<form id="searchForm">
+    <div class="row">
+        <div class="col-md-4">
+            <input type="text" id="clave" name="clave" class="form-control" placeholder="Clave del producto">
+        </div>
+        <div class="col-md-4">
+            <select id="tipoProductoId" name="tipoProductoId" class="form-control">
+                <option value="">Seleccione un tipo de producto</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            <button type="button" class="btn btn-primary" onclick="buscarProductos()">Buscar</button>
+            <button type="button" class="btn btn-success" onclick="showAddModal()">Agregar Producto</button>
+        </div>
+    </div>
+</form>
+
+<
+<table id="productosTable" class="display">
+    <thead>
+        <tr>
+            <th>Clave</th>
+            <th>Nombre</th>
+            <th>Tipo Producto</th>
+            <th>Es Activo</th>
+            <th>Precio</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+   
+    </tbody>
+</table>
+
+
+
+<div class="modal fade" id="productoModal" tabindex="-1" role="dialog" aria-labelledby="productoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="productoModalLabel">Gestión de Producto</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="productoForm">
+                    <input type="hidden" id="productoId" name="id">
+                    <div class="form-group">
+                        <label for="txtClave">Clave</label>
+                        <input type="text" class="form-control" id="txtClave" name="clave" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="nombre">Nombre</label>
+                        <input type="text" class="form-control" id="nombre" name="nombre" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="tipoProducto">Tipo Producto</label>
+                        <select class="form-control" id="tipoProducto" name="tipoProductoId" required>
+                        </select>
+                    </div>
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" id="esActivo" name="esActivo">
+                        <label class="form-check-label" for="esActivo">Es Activo</label>
+                    </div>
+                    <div class="form-group">
+                        <label for="precio">Precio</label>
+                        <input type="number" step="0.01" class="form-control" id="precio" name="precio">
+                    </div>
+
+                    <h6 class="mt-4">Proveedores</h6>
+                    <div class="row">
+                        <div class="form-group col-md-4">
+                            <select id="nuevoProveedorId" class="form-control">
+                                <option value="">Seleccione un proveedor</option>
+                            </select>
+                        </div>
+                        <div class="form-group col-md-3">
+                            <input type="text" id="nuevoClaveProducto" class="form-control" placeholder="clave del producto">
+                        </div>
+                        <div class="form-group col-md-3">
+                            <input type="number" step="0.01" id="nuevoCosto" class="form-control" placeholder="costo">
+                        </div>
+                        <div class="form-group col-md-2">
+                            <button type="button" class="btn btn-primary" onclick="agregarProveedor()">Agregar Proveedor</button>
+                        </div>
+                    </div>
+                    <table class="table table-sm">
+                        <thead>
+                            <tr>
+                                <th>Proveedor</th>
+                                <th>Clave Producto</th>
+                                <th>Costo</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody id="proveedoresTableBody">
+                        </tbody>
+                    </table>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary" onclick="saveProducto()">Guardar Producto</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal de edición -->
+<div class="modal fade" id="editProveedorModal" tabindex="-1" role="dialog" aria-labelledby="editProveedorModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="editProveedorModalLabel">Editar Proveedor</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="editProveedorForm">
+                    <input type="hidden" id="editProveedorId" />
+                    <div class="form-group ">
+                        <select id="editNombreProveedor" class="form-control">
+                            <option value="">Seleccione un proveedor</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="editClaveProducto">Clave del Producto</label>
+                        <input type="text" class="form-control" id="editClaveProducto" />
+                    </div>
+                    <div class="form-group">
+                        <label for="editCosto">Costo</label>
+                        <input type="number" class="form-control" id="editCosto" step="0.01" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-primary" onclick="actualizarFilaProveedor()">Guardar cambios</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="/js/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.all.min.js"></script>
+<script src="/js/productos.js"></script>
+
+<script>
+    $('.modal').on('click', '.close, .btn-secondary', function () {
+        cerrarModales();
+    });
+    document.querySelector('.btn-secondary').addEventListener('click', function () {
+        $('#editProveedorModal').modal('hide');
+    });
+</script>

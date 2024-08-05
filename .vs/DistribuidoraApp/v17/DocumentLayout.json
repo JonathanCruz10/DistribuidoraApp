@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\wwwroot\\js\\productos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\wwwroot\\js\\productos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\models\\productoproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\models\\productoproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\models\\tipoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\models\\tipoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\services\\iproveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\services\\iproveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\services\\tipoproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\services\\tipoproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\controllers\\tipoproductocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\controllers\\tipoproductocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\controllers\\productosviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\controllers\\productosviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\views\\tipoproducto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\views\\tipoproducto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\wwwroot\\js\\jquery-3.6.0.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\wwwroot\\js\\jquery-3.6.0.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\services\\itipoproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\services\\itipoproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|c:\\users\\drens\\source\\repos\\distribuidoraapp\\distribuidoraapp\\distribuidoraapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1922E4BA-8665-4B3F-AB35-9E15C62186DA}|DistribuidoraApp\\DistribuidoraApp.csproj|solutionrelative:distribuidoraapp\\distribuidoraapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DistribuidoraApp\\views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAK8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T00:48:27.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "productos.js",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\wwwroot\\js\\productos.js",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\wwwroot\\js\\productos.js",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\wwwroot\\js\\productos.js",
+              "RelativeToolTip": "DistribuidoraApp\\wwwroot\\js\\productos.js",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAUwGIBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-03T03:21:49.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Models\\Proveedor.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Models\\Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:59:06.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoProducto.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Models\\TipoProducto.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Models\\TipoProducto.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Models\\TipoProducto.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Models\\TipoProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:55:01.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\ProductoService.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Services\\ProductoService.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAmwAcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:51:30.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Models\\Producto.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Models\\Producto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:08:00.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Data\\Database.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Data\\Database.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAA4wEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T23:49:22.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Models\\ProductoProveedor.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Models\\ProductoProveedor.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Models\\ProductoProveedor.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Models\\ProductoProveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:01:19.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwFUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:17:56.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Controllers\\ProveedorController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:11:34.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProveedorService.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\ProveedorService.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Services\\ProveedorService.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\ProveedorService.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Services\\ProveedorService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:12:55.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProveedorService.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\IProveedorService.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Services\\IProveedorService.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\IProveedorService.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Services\\IProveedorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:13:19.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TipoProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Controllers\\TipoProductoController.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Controllers\\TipoProductoController.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Controllers\\TipoProductoController.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Controllers\\TipoProductoController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:31:12.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\TipoProductoService.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Services\\TipoProductoService.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\TipoProductoService.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Services\\TipoProductoService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:33:20.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Program.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Program.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Program.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:56:17.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductosViewController.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Controllers\\ProductosViewController.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Controllers\\ProductosViewController.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Controllers\\ProductosViewController.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Controllers\\ProductosViewController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:35:07.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\views\\TipoProducto\\Index.cshtml",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\views\\TipoProducto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\views\\TipoProducto\\Index.cshtml",
+              "RelativeToolTip": "DistribuidoraApp\\views\\TipoProducto\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T18:39:06.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "jquery-3.6.0.min.js",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\wwwroot\\js\\jquery-3.6.0.min.js",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\wwwroot\\js\\jquery-3.6.0.min.js",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\wwwroot\\js\\jquery-3.6.0.min.js",
+              "RelativeToolTip": "DistribuidoraApp\\wwwroot\\js\\jquery-3.6.0.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAACLpAEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-03T20:12:23.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITipoProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\ITipoProductoService.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Services\\ITipoProductoService.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\ITipoProductoService.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Services\\ITipoProductoService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:32:26.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Services\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Services\\IProductoService.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Services\\IProductoService.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T23:31:01.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:01:41.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\views\\shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\views\\shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\views\\shared\\_Layout.cshtml",
+              "RelativeToolTip": "DistribuidoraApp\\views\\shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T04:42:42.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DistribuidoraApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-03T04:49:01.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Data\\DBContext.cs",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\Data\\DBContext.cs",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\Data\\DBContext.cs",
+              "RelativeToolTip": "DistribuidoraApp\\Data\\DBContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:15:55.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DistribuidoraApp.http",
+              "DocumentMoniker": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\DistribuidoraApp.http",
+              "RelativeDocumentMoniker": "DistribuidoraApp\\DistribuidoraApp.http",
+              "ToolTip": "C:\\Users\\drens\\source\\repos\\DistribuidoraApp\\DistribuidoraApp\\DistribuidoraApp.http",
+              "RelativeToolTip": "DistribuidoraApp\\DistribuidoraApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-01T05:32:03.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

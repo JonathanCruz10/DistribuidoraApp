@@ -19,7 +19,7 @@ IIS 7.5 o superior (para el despliegue).
 Instalación
 Clonar el repositorio
 bash
-git clone https://github.com/tu-usuario/DistribuidoraApp.git
+git clone[ https://github.com/tu-usuario/DistribuidoraApp.git](https://github.com/JonathanCruz10/DistribuidoraApp )
 cd DistribuidoraApp
 Configurar la base de datos
 Crear la base de datos:

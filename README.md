@@ -23,7 +23,7 @@ git clone https://github.com/JonathanCruz10/DistribuidoraApp
 cd DistribuidoraApp
 Configurar la base de datos
 Crear la base de datos:
-Asegúrate de tener MySQL instalado y crea una base de datos llamada DistribuidoraDB.
+Asegúrate de tener MySQL instalado y depurar los scripts que estan en la carpeta DistribuidoraMySQL.
 
 Actualizar la cadena de conexión:
 Modifica el archivo appsettings.json en la raíz del proyecto para incluir la cadena de conexión a tu base de datos:
@@ -31,7 +31,7 @@ Modifica el archivo appsettings.json en la raíz del proyecto para incluir la ca
 json
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost;Database=DistribuidoraDB;User=root;Password=tu-password;"
-}
+} //ESTO DEPENDE DE TU CONFIGURACION EN MYSQL
 Restaurar dependencias y construir el proyecto
 
 dotnet restore
@@ -41,7 +41,7 @@ Ejecutar la aplicación
 arduino
 dotnet run
 
-Accede a la aplicación en http://localhost:5000.
+Accede a la aplicación en http://localhost:5000 o http://localhost:7182.
 
 Despliegue en IIS
 Publicar la aplicación:
